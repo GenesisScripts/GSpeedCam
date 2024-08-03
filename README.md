@@ -9,3 +9,4 @@ Features:
 * You'll not be able to get caught by same camera for five seconds after you've already been caught speeding.
 
 
+Preview: https://streamable.com/stpv8y
