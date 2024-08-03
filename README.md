@@ -10,3 +10,7 @@ Features:
 
 
 Preview: https://streamable.com/stpv8y
+
+Join my Discord for any support 
+
+Discord: https://discord.gg/UQYvu52By9
